@@ -2,13 +2,6 @@
  
  💬반갑습니다. 어제보다 더 나은 내가 되기위해서 열심히 하고있습니다 😄
 
-
-<h3 align="center">👩‍💻 dong-hei's Github Stats 👩‍💻</h3>
-<div align="center">
-
-![Dong-hei's GitHub stats](https://github-readme-stats.vercel.app/api?username=dong-hei&theme=dark&show_icons=true)
-
-
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
